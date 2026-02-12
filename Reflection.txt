@@ -1,0 +1,13 @@
+Due to the fact that websites are powered by computer systems, 
+web developers must have a solid understanding of computers and
+ operating systems. An understanding of operating systems aids 
+developers in efficiently managing data, installing applications, 
+and resolving issues. A developer can better understand what happens 
+when a user views a website by having a solid understanding of the web's
+ workings, including ideas like servers, browsers, and DNS. Fixing issues 
+when a website fails to load or behaves strangely is much simpler with 
+this knowledge. Additionally, it aids programmers in creating safer and 
+more effective code. Without knowing these fundamentals, a developer could 
+find it difficult to determine the root of technological problems. 
+In general, coding becomes more significant and efficient when one 
+possesses fundamental information.
