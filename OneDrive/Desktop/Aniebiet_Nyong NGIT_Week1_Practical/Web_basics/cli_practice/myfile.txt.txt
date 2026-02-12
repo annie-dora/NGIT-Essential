@@ -1,0 +1,34 @@
+cd C:\Users\Aniebiet Nyong\Desktop\web_basics
+mkdir cli_practice
+cd cli_practice
+type nul > test.txt
+ren test.txt myfile.txt
+dir
+
+
+cd - Change directory
+mkdir - create a folder
+type null - create an empty file
+ren - rename file
+dir - display files
+
+
+Domain name: google.com
+
+Protocol: HTTPS (HyperText Transfer Protocol Secure)
+
+What happens behind the scenes when you press Enter in the browser:
+
+DNS lookup: Your browser first asks a DNS (Domain Name System) server to translate google.com into an IP address, which tells your computer where the server is located.
+
+Establish connection: The browser establishes a connection with the Google server using HTTPS, which involves a secure handshake to encrypt data.
+
+Send HTTP request: Your browser sends a request to the server asking for the webpage, like “GET /” for the homepage.
+
+Server processing: The Google server receives the request, processes it, and prepares the response. This might involve fetching data, running scripts, or reading cached files.
+
+Send response: The server sends back the HTML, CSS, JavaScript, and images that make up the webpage.
+
+Browser renders page: Your browser interprets the code, loads styles and scripts, and displays the webpage for you to interact with.
+
+Additional requests: The browser may make extra requests for images, videos, or ads embedded in the page, repeating the process as needed.
