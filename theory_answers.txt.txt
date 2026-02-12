@@ -1,0 +1,93 @@
+theory_answers
+Question 1
+Define a computer and explain the difference between hardware and software, giving three examples of each.
+A computer is an electronic device that accepts data (input), processes it according to instructions, stores it, and produces meaningful information (output).
+
+Hardware refers to the physical, tangible parts of a computer that you can see and touch.
+Keyboard
+Monitor
+Central processing unit(CPU)
+
+Software refers to the programs or instructions that tell the computer what to do. Software cannot be touched physically.
+Google chrome
+Windows
+Microsoft word
+
+Question2
+What is an operating system? 
+An operating system is a system software that manages the overall operations of a computer and acts as an interface between the user and the computer hardware.
+
+State two of its primary functions.
+Resource management – it controls and allocates hardware resources such as the CPU, memory, and storage to different programs.
+File and program management – it manages files on storage devices and allows users to run and control application programs.
+
+Question 3
+Compare Windows and Linux, highlighting any three differences.
+Cost and Licensing
+Windows is proprietary software and usually requires a paid license.
+Linux is open-source and free to use, modify, and distribute.
+
+User Interface
+Windows has a graphical user interface that is easy for beginners and widely used on personal computers.
+Linux offers different interfaces (called distributions or distros) and may require more technical knowledge, especially when using the command line.
+
+Security and Stability
+Windows is more commonly targeted by viruses and malware.
+Linux is generally more secure and stable due to its permission system and open-source development.
+
+Question 4
+Explain the following terms:
+File - A file is a collection of related data or information stored on a computer under a specific name. It can contain text, images, audio, video, or program data.
+Folder - A folder (also called a directory) is a container used to organize and store files and sometimes other folders on a storage device, making it easier to manage and locate information.
+File extension - A file extension is the part of a file name that comes after the dot (.) and indicates the type of file and the program used to open it. For example: .docx, .jpg, .mp3, .pdf.
+
+Question 5
+What is the command line, and why is it important for developers?
+The command line (also called the command-line interface or CLI) is a text-based way of interacting with a computer by typing commands instead of using graphical icons and menus.
+
+Question 6
+Define the following internet-related terms:
+Server - A server is a computer or system that provides services, resources, or data to other computers (called clients) over a network or the internet.
+
+Browser - A browser is a software application used to access, view, and navigate websites on the internet. Examples include Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+
+IP Address - An IP address is a unique numerical label assigned to each device connected to a network. It identifies the device and allows it to communicate with other devices over the internet. Example: 192.168.1.1.
+
+DNS (Domain Name System) - DNS is a system that translates human-friendly website names (like www.google.com) into IP addresses that computers use to locate servers on the internet.
+
+HTTPS (Hypertext Transfer Protocol Secure) is the secure version of HTTP. It encrypts the data being sent, which protects sensitive information like passwords, payments, or personal details from hackers.
+
+HTTP (Hypertext Transfer Protocol) is a protocol used to transfer data over the internet, but it is not secure, meaning the information sent can be intercepted by others.
+
+The main difference is that HTTPS provides security while HTTP does not.
+
+Question 7
+Describe the client–server model using a simple example. 
+The client–server model is a way computers communicate on a network, where one computer (the server) provides resources or services, and another computer (the client) requests and uses them.
+Example:
+When you use a web browser like Google Chrome to visit a website:
+Your browser is the client – it sends a request asking for a web page.
+The website’s computer (web server) is the server – it receives the request and sends back the requested web page.
+
+Question 8 
+Differentiate between frontend and backend development.
+Frontend Development:
+Deals with everything the user sees and interacts with on a website or app.
+Uses languages like HTML, CSS, and JavaScript to create layouts, buttons, forms, and visuals.
+Example: The layout of a shopping website, the navigation menu, and the “Add to Cart” button.
+
+Backend Development:
+Deals with the server, database, and application logic that run behind the scenes.
+Uses languages like Python, Java, PHP, or Node.js to manage data, user accounts, and business logic.
+Example: Storing customer orders in a database, processing payments, and handling login credentials.
+
+Question 9
+Explain what a website, domain, and hosting are, and how they work together. 
+Website: A website is a collection of web pages that contain information, images, videos, or interactive features. For example, Google.com or Wikipedia.org.
+
+Domain: A domain is the human-readable address of a website that people type in a browser to access it, like www.google.com. It makes it easier to find a website instead of remembering its IP address.
+
+Hosting: Hosting is the service that stores a website’s files (like text, images, and code) on a server so that the website can be accessed on the internet.
+
+Question 10
+Briefly describe the browser rendering process.
